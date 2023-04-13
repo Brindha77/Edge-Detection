@@ -104,4 +104,4 @@ plt.show()
 ![Screenshot_20230413_020309](https://user-images.githubusercontent.com/118889143/231702398-1d550de8-bd87-476e-ac76-f9d5cbca3bed.png)
 
 ### CANNY EDGE DETECTOR
-![Uploading Screenshot_20230413_020342.png…]()
+
