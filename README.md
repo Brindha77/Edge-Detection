@@ -10,7 +10,7 @@ Anaconda - Python 3.7
 Import the required packages.
 
 ## Step2:
-Read the image and cconvert into gray image.
+Read the image and convert into gray image.
 
 ## Step3:
 Remove the noise of the image using gaussian operator.
@@ -101,7 +101,7 @@ plt.show()
 ![Screenshot_20230412_024038](https://user-images.githubusercontent.com/118889143/231412421-3edc563b-3425-48b7-8f5b-4de885105709.png)
 
 ### LAPLACIAN EDGE DETECTOR
-
+![Screenshot_20230413_020309](https://user-images.githubusercontent.com/118889143/231702398-1d550de8-bd87-476e-ac76-f9d5cbca3bed.png)
 
 ### CANNY EDGE DETECTOR
 
